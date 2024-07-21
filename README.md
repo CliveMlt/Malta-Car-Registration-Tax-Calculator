@@ -1,6 +1,6 @@
 # Malta-Car-Registration-Tax-Calculator
  
-Welcome to the Vehicle Registration Tax Calculator for Malta! This script calculates the registration tax based on various parameters including CO2 emissions, vehicle length, registration value, and Euro Standard.
+Welcome to the Malta Car Registration Tax Calculator! This script calculates the registration tax based on various parameters including CO2 emissions, vehicle length, registration value, and Euro Standard.
 
 ## Features
 
