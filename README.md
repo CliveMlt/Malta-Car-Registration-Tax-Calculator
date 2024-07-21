@@ -64,7 +64,7 @@ For Euro Standard 4, the CO2 tax rate is 0.44%.
     Total Tax = Length Tax + CO2 Tax = 4194.52 + 36961.42 = 41155.94
    ```
 ## Example Output
-   ```bash
+   ```java
     
     ███╗   ███╗ █████╗ ██╗  ████████╗ █████╗      ██████╗ █████╗ ██████╗
     ████╗ ████║██╔══██╗██║  ╚══██╔══╝██╔══██╗    ██╔════╝██╔══██╗██╔══██╗
@@ -116,8 +116,8 @@ For Euro Standard 4, the CO2 tax rate is 0.44%.
    ```
     
 ## Document Reference
-This script is based on the calculations and guidelines provided in the document using NEDC rates:
-**Document:** SOPV 02 - Registering & Licensing of New & Used Motor Vehicles
+This script is based on the calculations and guidelines provided in the document using NEDC rates:<br>
+**Document:** SOPV 02 - Registering & Licensing of New & Used Motor Vehicles<br>
 **Source:** Transport Malta
 
 ## License
